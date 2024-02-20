@@ -1,0 +1,21 @@
+
+{
+  "products": [
+    {
+      "name": "فراخ",
+      "unit": "كيلو",
+      "quantity": 3,
+      "price": null,
+      "total_price": null
+    },
+    {
+      "name": "بانيه",
+      "unit": "كيلو",
+      "quantity": 2,
+      "price": null,
+      "total_price": null
+    }
+  ],
+  "total_price": 650
+}
+
